@@ -27,11 +27,9 @@ scroll to zoom from space down to street level).
 
 ### Get a Cesium ion token (free)
 
-Google Photorealistic 3D Tiles are included with a free Cesium ion account, which
-is the credit-card-free way to stream them.
+Google Photorealistic 3D Tiles are included with a free Cesium ion account:
 
-1. Create an account at <https://ion.cesium.com/signup/> (email + password; no
-   payment details).
+1. Create an account at <https://ion.cesium.com/signup/> (email + password only).
 2. Sign in — you land on the **My Assets** dashboard. "Google Photorealistic 3D
    Tiles" (asset `2275207`) is already available to every account; you don't need
    to add it.
