@@ -1,1 +1,6 @@
 .DS_Store
+
+# Claude Code per-user files
+**/.claude/settings.local.json
+**/.claude/scheduled_tasks.lock
+**/CLAUDE.local.md
